@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "quantile", "rnorm", "sd")
+importFrom("partitions", "listParts", "parts")
+importFrom("ggplot2", "ggplot")
+
